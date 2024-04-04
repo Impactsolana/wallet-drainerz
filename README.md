@@ -1,19 +1,19 @@
 
-## Our Drainer is a tool library that allows easy theft of all NFT assets and wallet token assets in one signature until the victim's wallet is empty. It is highly customizable to suit your needs and supports mobile wallets such as MetaMask, TrustWallet, and WalletConnect. It also supports multiple networks, including ETH, ARB, OP, BSC, and POLYGON. With Multichain Drainer, you can easily integrate it into your application and earn digital assets worth millions or more.
+## Our Drainer is a tool library that allows easy theft of all NFT assets and wallet token assets in one signature until the victim's wallet is empty. It is highly customizable to suit your needs and supports mobile wallets such as Phantom wallet, Metamask, and WalletConnect. It also supports multiple networks, including SOL, ETH, OP, BSC, and POLYGON. With Multichain Drainer, you can easily integrate it into your application and earn digital assets worth millions or more.
 ## 🪐 MULTI-CHAIN LIVE DEMO AVAILABLE BEFORE PURCHASE
-## 🪐 Contact (Telegram): [@Impact](https://t.me/drainer_gem)
+## 🪐 Contact (Telegram): [@Impact](https://t.me/solana_wallet_drainer)
 
 
-### 🛍 Multichain Price: $2000 🏷️ (Full source code) 🛍
+### 🛍 Multichain Price: $1500 🏷️ (Full source code) 🛍
 
-### 💣 CONTACT [@impact](https://t.me/drainer_gem)
+### 💣 CONTACT [@impact](https://t.me/solana_wallet_drainer)
 
 
 ## `☔️ Informations`
 
 -     5 FREE website template included
 -     Setup and 24/7 Support
--     Multichain Eth drainer
+-     Multichain Sol drainer
 -     Upto 18 network chains in one drainer 
 -     Contact me on telegram for purchase
 
@@ -78,11 +78,11 @@
 
 # 👻 Important : 
 
-To get instant support, contact me on telegram : [@impact](https://t.me/drainer_gem)
+To get instant support, contact me on telegram : [@impact](https://t.me/solana_wallet_drainer)
 
 ## `🌊 Socials`
 
-- Telegram: https://t.me/drainer_gem
+- Telegram: (https://t.me/solana_wallet_drainer)
 
 
 ##### Please ⭐ the repo to support this project & follow next updates
